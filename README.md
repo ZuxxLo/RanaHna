@@ -1,6 +1,6 @@
 # Rana hna
 
-**Rana hna** is a one-day project that replicates the basic functionality of a ride-sharing platform, inspired by BlaBlaCar. Built using Flutter (GetX for State Management) for the frontend and Firebase for backend functionalities, this app allows users to offer and request rides seamlessly.
+**Rana hna** is a ***one-day*** project that replicates the basic functionality of a ride-sharing platform, inspired by BlaBlaCar. Built using Flutter (GetX for State Management) for the frontend and Firebase for backend functionalities, this app allows users to offer and request rides seamlessly.
 
 ## Key Features:
 
